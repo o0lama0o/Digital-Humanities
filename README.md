@@ -20,7 +20,7 @@ ex. [@Pizzaaa](https://twitter.com/Thorspizza)
     * Initial Release
 
 ## License
-This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
+This project is licensed under the Creative Commons Zero v1.0 Universal License - see the LICENSE.md file for details
 
 ## Acknowledgments
 * Tak til Signe
