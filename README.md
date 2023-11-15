@@ -1,44 +1,15 @@
 # Digital-Humanities
 
-Simple overview of use/purpose.
+Exploring rooster on the Met Museum 
 
 ## Description
 
-An in-depth paragraph about your project and overview of use.
-
-## Getting Started
-
-### Dependencies
-
-* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-* ex. Windows 10
-
-### Installing
-
-* How/where to download your program
-* Any modifications needed to be made to files/folders
-
-### Executing program
-
-* How to run the program
-* Step-by-step bullets
-```
-code blocks for commands
-```
-
-## Help
-
-Any advise for common problems or issues.
-```
-command to run if program contains helper info
-```
+In progress. This project is part of a Digital Humanities course for Bachelor Students from the University of Copenhagen
 
 ## Authors
 
-Contributors names and contact info
-
-ex. Dominique Pizzie  
-ex. [@DomPizzie](https://twitter.com/dompizzie)
+Thors Pizza 
+ex. [@Pizzaaa](https://twitter.com/Thorspizza)
 
 ## Version History
 
