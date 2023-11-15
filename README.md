@@ -1,6 +1,6 @@
 # Digital-Humanities
 
-Exploring rooster on the Met Museum 
+Exploring rooster 🐓 on the Met Museum 
 
 ## Description
 
