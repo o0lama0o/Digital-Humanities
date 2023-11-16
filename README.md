@@ -6,7 +6,7 @@ This project is part of a Digital Humanities course for Bachelor Students from t
 
 ## Authors
 Thors Pizza 
-ex. [@Pizzaaa](https://twitter.com/Thorspizza)
+ex. [@Byens bedste pizzaaa](https://twitter.com/dominos_india)
 
 ## Version History
 * 0.2
