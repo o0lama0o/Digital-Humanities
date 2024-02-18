@@ -1,5 +1,5 @@
 # Digital-Humanities🐓
-Exploring rooster 🐓 on the Met Museum 
+Exploring rooster 🐓 on the Met Museum. Download the CSV-file and have fun!:)
 
 ## Description
 This project is part of a Digital Humanities course for Bachelor Students from the University of Copenhagen
@@ -16,7 +16,7 @@ ex. [@Byens bedste pizzaaa](https://twitter.com/dominos_india)
     * Initial Release
 
 ## License
-This project is licensed under the Creative Commons Zero v1.0 Universal License - see the LICENSE.md file for details
+This project is licensed under the Creative Commons Zero 0 1.0 Universal License - see the LICENSE.md file for details
 
 ## Acknowledgments
 * Tak til Signe
